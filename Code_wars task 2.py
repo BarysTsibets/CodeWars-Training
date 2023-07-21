@@ -47,3 +47,6 @@ def increment_string(strng):
 # strng = "foobar000"
 strng = "foobar99"
 print(increment_string(strng))
+
+
+# Notes added
