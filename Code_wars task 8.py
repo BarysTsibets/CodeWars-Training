@@ -20,8 +20,5 @@ def get_middle(s):
         return s
         # print(f'{s} is middle character')
 
-    else:
-        print('hello world')
-
 
 get_middle('hello')
